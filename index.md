@@ -28,7 +28,7 @@ Let me know what you find!
 
 Part 2
 
-Scripting and using vim are powerful tools that I can already see as being usefull in the future. It also something that I'll need more practice and I'm sure these tools will end up makaing my life easier. I think scrpiting espically can be usefull from its abilty to automate tasks. 
+Scripting and using vim are powerful tools that I can already see as being usefull in the future. It also something that I'll need more practice and I'm sure these tools will end up makaing my life easier. I think scripiting espically can be usefull from its abilty to automate tasks like compiling code or running testers. 
 
 
 
